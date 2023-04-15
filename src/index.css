@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Manrope', sans-serif;
+}
+
+.my-container{
+    @apply px-4 py-4 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-4
+  }
+  .my-simple-container{
+    @apply px-4 py-4 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8  lg:py-4
+  }
+
+.my-btn{
+    @apply bg-violet-400 text-white hover:bg-violet-800 px-4 py-2 rounded mt-5
+}

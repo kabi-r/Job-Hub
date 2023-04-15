@@ -1,0 +1,26 @@
+[
+    {
+      "id": "6432f2df465cd79b8b5d38f6",
+      "img": "https://i.ibb.co/RT1qYhn/accounts-1.png",
+      "job_title": "Account & Finance",
+      "available_jobs": 324 
+    },
+    {
+      "id": "6432f2df72694523e28e2726",
+      "img": "https://i.ibb.co/Ws0sjV1/business-1.png",
+      "job_title": "Creative Design",
+      "available_jobs": 152
+    },
+    {
+      "id": "6432f2df3337d89ce2adc1a3",
+      "img": "https://i.ibb.co/XXJnw4W/social-media-1.png",
+      "job_title": "Marketing & Sales",
+      "available_jobs": 324
+    },
+    {
+      "id": "6432f2dfdc5d1056ee469e38",
+      "img": "https://i.ibb.co/qgWGG0x/chip-1.png",
+      "job_title": "Engineering Job3",
+      "available_jobs": 224
+    }
+  ]
